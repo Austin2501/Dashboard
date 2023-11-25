@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    productName: "Sleek Sedan",
+    productNumber: "78423",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Sporty Convertible",
+    productNumber: "62159",
+    payment: "Refunded",
+    status: "Declined",
+    statusColor: "danger",
+  },
+  {
+    productName: "Luxury SUV",
+    productNumber: "15842",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Electric City Car",
+    productNumber: "33570",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Hybrid Compact Car",
+    productNumber: "50214",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+  {
+    productName: "Performance Sports Car",
+    productNumber: "74109",
+    payment: "Due",
+    status: "Pending",
+    statusColor: "warning",
+  },
+  {
+    productName: "Family Minivan",
+    productNumber: "92683",
+    payment: "Paid",
+    status: "Delivered",
+    statusColor: "primary",
+  },
+];
